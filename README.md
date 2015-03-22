@@ -111,4 +111,5 @@ DXPopover
 UIImage+ImageEffect
 
 FXBlurView: Use UIImage+ImageEffect instead of FXBlurView
+
 DropDownListView [like Android]
