@@ -1,3 +1,5 @@
+#Intro
+I'm Gaurav Sharma, creator of this rapid development environment i.e. Rocket. Well I know that its dependancy pods, but at ini
 # Rocket
 iOS Rapid Development Environment : Rocket
 
